@@ -9,3 +9,5 @@ python tweet.py filename.txt
 replace filename.txt with email list
 
 example: python tweet.py maillist.txt
+
+pip install colorama
