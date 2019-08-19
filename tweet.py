@@ -28,7 +28,7 @@ print("""
 ###############################################
 ###### Developer: ᏕᎮᏋᏨᎨᎯᏝ ᏨᎧᏧᏋᖇ   #############
 ###### Telegram: @MuslimSoldier   #############
-###### Github: @Promunim          #############
+###### Github: @MuslimSoldier    #############
 ###### Copywrite  © 2019 @MuslimSoldier  ######
 #### Stealing codes does't make you coder  ####
 ##### => Ethiopian Coders Association <= ######
